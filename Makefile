@@ -1,4 +1,4 @@
-CFITSIO = /home/s1/javiert/analisis/external/cfitsio
+CFITSIO = $(FITSIOROOT)
 CPP = g++
 CC = gcc
 CFLAGS = -Wall -I$(CFITSIO)
